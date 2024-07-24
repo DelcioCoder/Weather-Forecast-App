@@ -1,0 +1,32 @@
+.container_child{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.image_weather_container{
+    position: relative;
+    margin-top:-5px;
+}
+
+
+.container_information{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+.weather_container{
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: rgba(250, 250, 250,0.8);
+    border-radius: 10px;
+    box-shadow:-1px -3px 5px -2px rgba(214, 214, 214, 1)
+}
